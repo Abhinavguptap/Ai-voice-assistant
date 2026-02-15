@@ -132,7 +132,7 @@ class StableVoiceAssistant:
             print("   Or get key at: https://aistudio.google.com/app/apikey")
             
             # Try hardcoded key as fallback
-            api_key = 'AIzaSyAA1LAAmnYBGfmqSvGDlbgW7SCDoJKVcsU'
+            api_key = 'INSERT_KEY_HERE'
             print(f"   Trying fallback key: {api_key[:20]}...")
         
         try:
